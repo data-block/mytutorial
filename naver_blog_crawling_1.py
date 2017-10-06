@@ -42,4 +42,4 @@ def naver_blog_search(q):
 
 # 결과 수행 코드
 result = naver_blog_search('AskDjango')
-resul
+result
